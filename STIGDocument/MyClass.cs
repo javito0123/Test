@@ -7,5 +7,6 @@ namespace STIGDocument
 {
     class MyClass
     {
+        string xx = "Fredi";
     }
 }
