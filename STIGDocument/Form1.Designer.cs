@@ -201,7 +201,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 17;
-            this.button3.Text = "Test Fredi";
+            this.button3.Text = "Testing";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // Form1
