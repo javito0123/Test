@@ -21,6 +21,7 @@ namespace STIGDocument
         private void button1_Click(object sender, EventArgs e)
         {
             string xx = "test";
+            string xx = "test1";
             string inputFile = txtInputDocu.Text;
             string outputFile = txtOutputDocu.Text;
             ReadAndWriteTextFile(inputFile, outputFile);
